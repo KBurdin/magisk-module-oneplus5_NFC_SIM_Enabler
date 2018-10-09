@@ -1,0 +1,7 @@
+id=oneplus5SWPNFCSimEnabler
+name=OnePlus 5 NFC SWP Sim Enabler
+version=v1
+versionCode=1
+author=snowwolf725, KBurdin
+description=Enable NFC SIM feature for OnePlus 5 (Updated version for OOS 5.1.5)
+minMagisk=17000
