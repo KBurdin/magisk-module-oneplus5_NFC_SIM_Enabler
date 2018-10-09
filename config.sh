@@ -63,8 +63,8 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/vendor/etc/libnfc-nxp.conf
-/vendor/etc/libnfc-nxp_yangchengtong.conf
+/system/vendor/etc/libnfc-nxp.conf
+/system/vendor/etc/libnfc-nxp_yangchengtong.conf
 /system/etc/nfcee_access.xml
 /system/framework/org.simalliance.openmobileapi.jar
 /system/priv-app/SmartcardService/SmartcardService.apk
